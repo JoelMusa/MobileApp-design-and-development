@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">simple-navigation-app-labwork-2</string>
+    <string name="title_activity_main">simple-navigation-app-labwork-2</string>
+    <string name="package_name">simple.navigation.app.labwork.v2</string>
+    <string name="custom_url_scheme">simple.navigation.app.labwork.v2</string>
+</resources>
