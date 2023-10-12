@@ -1,0 +1,7 @@
+{
+  "name": "Task1-VideoTutorial_API_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
