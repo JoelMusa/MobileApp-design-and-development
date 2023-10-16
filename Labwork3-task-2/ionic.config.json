@@ -1,0 +1,7 @@
+{
+  "name": "Labwork3-task-2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
